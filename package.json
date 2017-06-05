@@ -4,7 +4,9 @@
   "description": "road2kera-js",
   "main": "index.js",
   "dependencies": {
-    "keras-js": "^0.3.0"
+    "keras-js": "^0.3.0",
+    "lodash": "^4.17.4",
+    "ndarray-ops": "^1.2.2"
   },
   "devDependencies": {},
   "scripts": {},
