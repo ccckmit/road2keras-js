@@ -1,0 +1,26 @@
+{
+  "name": "road2kera-js",
+  "version": "0.0.1",
+  "description": "road2kera-js",
+  "main": "index.js",
+  "dependencies": {
+    "keras-js": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "bin": {},
+  "keywords": [
+    "Neural Network",
+    "Deep Learning"
+  ],
+  "homepage": "https://github.com/ccckmit/road2kera-js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ccckmit/road2kera-js.git"
+  },
+  "author": {
+    "name": "Chung-Chen Chen",
+    "email": "ccckmit@gmail.com"
+  },
+  "license": "MIT"
+}
